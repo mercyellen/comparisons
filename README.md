@@ -11,5 +11,5 @@ This | self
 * Getters and setters
 
 * Java | Swift
----- | -----
-This | self
+  ---- | -----
+  This | self
