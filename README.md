@@ -10,6 +10,6 @@ This | self
 
 * Getters and setters
 
-**  Java | Swift
-    ---- | -----
-    This | self
+* Java | Swift
+  ---- | -----
+       | 
