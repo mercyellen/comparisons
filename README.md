@@ -1,5 +1,5 @@
 # comparisons
 
-##Instance reference name in data type (class)
+## Instance reference name in data type (class)
 
-###Java
+### Java
