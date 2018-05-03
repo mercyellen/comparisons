@@ -17,7 +17,7 @@ This | self
   * Java | Swift
     ---- | -----
     
-*Computed properties
+* Computed properties
 
   * Java | Swift
     ---- | -----
@@ -33,7 +33,7 @@ This | self
   * Java | Swift
     ---- | -----
 
-*How is it used?
+* How is it used?
 
   * Java | Swift
     ---- | -----
