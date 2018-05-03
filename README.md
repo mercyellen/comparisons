@@ -5,3 +5,7 @@
 Java | Swift
 ---- | -----
 This | self
+
+### Properties
+
+#### Getters and setters
