@@ -27,6 +27,7 @@
 
   * Java | Swift
     ---- | -----
+    Interfaces|Protocols
     
 * What abilities does it have?
 
