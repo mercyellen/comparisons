@@ -8,4 +8,8 @@ This | self
 
 ### Properties
 
-#### Getters and setters
+* Getters and setters
+
+Java | Swift
+---- | -----
+This | self
