@@ -44,8 +44,8 @@
 *Inheritance
 
  * Java | Swift
-  ---- | -----
-       | Only classes can inherit from another class. In other words, structures and enumerations don't support inheritance
+   ---- | -----
+        | Only classes can inherit from another class. In other words, structures and enumerations don't support inheritance
        
 *Extension
 
