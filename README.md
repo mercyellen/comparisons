@@ -41,10 +41,18 @@
     
 ### Inheritance / extension
 
+*Inheritance
 
-* Java | Swift
+ * Java | Swift
   ---- | -----
-       |only classes can inherit from another class. In other words, structures and enumerations don't support inheritance
+       | Only classes can inherit from another class. In other words, structures and enumerations don't support inheritance
+       
+*Extension
+
+  * Java | Swift
+    ---- | -----
+    Does not support extension | Extensions add new functionality to an existing class, structure, enumeration, or protocol type. This includes the ability to extend types for which you do not have access to the original source code (known as retroactive modeling).
+
 
 ### Reflection
 
