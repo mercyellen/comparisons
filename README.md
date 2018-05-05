@@ -17,12 +17,13 @@
 
   * Java | Swift
     ---- | -----
-    Java does not have backing fields. | Who knows about Swift IDK
+    Java does not have backing fields. | Explicitly declared if needed.
     
 * Computed properties
 
   * Java | Swift
     ---- | -----
+     As soon as you use a custom getter and/or setter method with a variable, it is a computed property | Calculate a value rather than storing the value by providing a getter and an optional setter to retrieve and set other properties and values indirectly
     
 ### Interfaces / protocols
 * What does the language support
