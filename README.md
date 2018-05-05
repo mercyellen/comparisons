@@ -44,13 +44,13 @@
     
 ### Inheritance / extension
 
-*Inheritance
+* Inheritance
 
  * Java | Swift
    ---- | -----
      Multiple inheritance is not allowed (A class extending multiple classes). You can have superclass = new subclass(), but you cannot have subclass = new superclass(). It's used to gain access to another class' members, including methods and fields. | Only classes can inherit from another class. In other words, structures and enumerations don't support inheritance. Multiple inheritance is also not allowed. It's used to gain access to another class' members, including methods and fields.
        
-*Extension
+* Extension
 
   * Java | Swift
     ---- | -----
