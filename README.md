@@ -60,6 +60,7 @@
 
   * Java | Swift
     ---- | -----
+    It allows an executing Java program to examine or "introspect" upon itself, and manipulate internal properties of the program. For example, it's possible for a Java class to obtain the names of all its members and display them. | its current functionality allows us to look at the objects’ properties without modifying them, which is representeted by Mirror structure
 
 * How is reflection used?
 
