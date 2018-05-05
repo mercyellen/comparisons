@@ -17,6 +17,7 @@
 
   * Java | Swift
     ---- | -----
+    Java does not have backing fields. | Who knows about Swift IDK
     
 * Computed properties
 
