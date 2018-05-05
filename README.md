@@ -45,7 +45,7 @@
 
  * Java | Swift
    ---- | -----
-     Java need fixed for sure   | Only classes can inherit from another class. In other words, structures and enumerations don't support inheritance
+     Multiple inheritance is not allowed (A class extending multiple classes). You can have superclass = new subclass(), but you cannot have subclass = new superclass(). | Only classes can inherit from another class. In other words, structures and enumerations don't support inheritance. Multiple inheritance is also not allowed.
        
 *Extension
 
