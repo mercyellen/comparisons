@@ -52,7 +52,7 @@
 
   * Java | Swift
     ---- | -----
-    Does not support extension | Extensions add new functionality to an existing class, structure, enumeration, or protocol type. This includes the ability to extend types for which you do not have access to the original source code (known as retroactive modeling).
+    Does not support extension | Extensions add new functionality to an existing class, structure, enumeration, or protocol type. This includes the ability to extend types for which you do not have access to the original source code (known as retroactive modeling). Four uses include protocol conformance, preserving initializers, code separation, and nested types.
 
 
 ### Reflection
@@ -61,11 +61,12 @@
 
   * Java | Swift
     ---- | -----
-    It allows an executing Java program to examine or "introspect" upon itself, and manipulate internal properties of the program. For example, it's possible for a Java class to obtain the names of all its members and display them. | its current functionality allows us to look at the objects’ properties without modifying them, which is representeted by Mirror structure
+    Makes it possible to inspect classes, interfaces, fields and methods at runtime, without knowing the names of the classes, methods etc. at compile time. It is also possible to instantiate new objects, invoke methods and get/set field values using reflection. | its current functionality allows us to look at the objects’ properties without modifying them, which is representeted by Mirror structure
 
 * How is reflection used?
 
   * Java | Swift
     ---- | -----
+    Java Reflection can be used to map properties in JSON files to getter / setter methods in Java objects, like Jackson, GSON, Boon etc. does. Or, Reflection can be used to map the column names of a JDBC ResultSet to getter / setter methods in a Java object. | 
     
 
