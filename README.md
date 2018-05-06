@@ -12,12 +12,12 @@
 
   * Java | Swift
     ---- | -----
-    You have to create your own getters and setters | 
+    You have to create your own getters and setters | Getters and setters for constants, variables, and subscripts automatically receive the same access level as the constant, variable, property, or subscript they belong to. You can give a setter a lower access level than its corresponding getter, to restrict the read-write scope of that variable, property or subscript.
 * Backing variables
 
   * Java | Swift
     ---- | -----
-    Java does not have backing fields. | Explicitly declared if needed.
+    Java does not have backing fields. | Swift unifies Objective-C's ways to store variables into a single property declaration. Swift doesn't have a corresponding instance variable, and the backing variable for a property is not accessed directly. All the information about a property is stored in a single location. 
     
 * Computed properties
 
