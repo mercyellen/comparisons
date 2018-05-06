@@ -42,7 +42,7 @@
 
   * Java | Swift
     ---- | -----
-    IDK | 
+    Unless the class that implements the interface is abstract, all the methods of the interface need to be defined in the class. The interface keyword is used to declare an interface. A class uses the implements keyword to implement an interface. The implements keyword appears in the class declaration following the extends portion of the declaration. | 
     
 ### Inheritance / extension
 
