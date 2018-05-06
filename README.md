@@ -42,7 +42,7 @@
 
   * Java | Swift
     ---- | -----
-    Unless the class that implements the interface is abstract, all the methods of the interface need to be defined in the class. The interface keyword is used to declare an interface. A class uses the implements keyword to implement an interface. The implements keyword appears in the class declaration following the extends portion of the declaration. | 
+    Unless the class that implements the interface is abstract, all the methods of the interface need to be defined in the class. The interface keyword is used to declare an interface. A class uses the implements keyword to implement an interface. The implements keyword appears in the class declaration following the extends portion of the declaration. |  The protocol specifies whether each property must be gettable or gettable and settable. They can also require specific instance methods and type methods to be implemented by conforming types, which are written as part of the protocol's definition without curly braces or a method body.
     
 ### Inheritance / extension
 
